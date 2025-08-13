@@ -1,4 +1,4 @@
-# Yecho-public
+# Yecho 
 Yecho: DeFi yield tracking. Architecture &amp; docs only. Codebase is proprietary and private.
 
 ## Overview
