@@ -20,7 +20,7 @@ This repository contains the **smartcontracts** deployed by Yecho.
 - Unichain: `0x8998822a08ca96bb23491e8279e2978618fc903c`  
 
 #### 🔵 Lido (stETH)  
-- Ethereum: `Coming soon`  
+- Ethereum: `0x9ec1871dcc37de4c8abfd3d119c8439a7728e47e`  
 
 *(more protocols coming soon)*  
 
