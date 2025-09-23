@@ -39,7 +39,7 @@ DeFi users lack a unified, automated platform to track yields, requiring manual 
 - **Optimization**: Employs multicallV3 contracts to minimize RPC calls, maximizing efficiency during snapshots.
 
 ## Architecture Overview
-<img width="2048" height="1259" alt="image" src="https://github.com/user-attachments/assets/9a0f08a2-d9af-4f62-8a97-96c2c919f4f6" />
+<img width="1252" height="732" alt="yecho-architecture" src="https://github.com/user-attachments/assets/c6ee4d1e-d593-4d0b-87a8-269a367a13e8" />
 
 - **Frontend**: React-based UI for yield visualization.
 - **Backend**: Server layer for data processing.
