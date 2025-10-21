@@ -39,6 +39,11 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | **avBTCx** | Avalanche C-Chain | `0x1fe8e3a0a0c291062ab7798e8c97d41c9fa3971f` |
 | **avETHx** | Ethereum          | `0x3a4945eabc0f69625dbb3da49a464a7e97819b72` |
 
+#### 🔵 Origin
+| Token         | Chain    | Address                                      |
+| ------------- | -------- | -------------------------------------------- |
+| **stETH ARM** | Ethereum | `0x2c8aa89111f7ec541be277ce8d1f75517c706500` |
+
 
 
 *(more protocols coming soon)*  
