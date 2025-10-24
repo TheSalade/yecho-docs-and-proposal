@@ -27,7 +27,8 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | Token      | Chain    | Address                                      |
 | ---------- | -------- | -------------------------------------------- |
 | **wstETH** | Ethereum | `0x9ec1871dcc37de4c8abfd3d119c8439a7728e47e` |
-
+| **GG**     | Ethereum | `0x1D9947b857c3F8e080F03BAe5C4e144BdA3B4114 ` |
+| **DVV**    | Ethereum | `0x1fe8e3a0a0c291062ab7798e8c97d41c9fa3971f` |
 
 #### 🟣 Avant
 | Token      | Chain             | Address                                      |
