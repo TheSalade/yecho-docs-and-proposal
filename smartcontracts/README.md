@@ -54,8 +54,6 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | **lstHYPE**    | HyperEVM | `0x69582196A3aB310a38846B31a11c751E735D6fdc` |
 | **XAUt**       | HyperEVM | `0x2c8aA89111F7ec541BE277ce8d1f75517C706500` |
 | **liquidHYPE** | HyperEVM | `0x7e38F0eE590Eae903C3783E297B38C6900f252cb` |
-| **Ultra HYPE** | HyperEVM | `0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb ` |
-| **Ultra BTC**  | HyperEVM | `0xc061d38903b99ac12713b550c2cb44b221674f94` |
 
 *(more protocols coming soon)*  
 
