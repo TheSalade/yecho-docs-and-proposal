@@ -45,7 +45,17 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | ------------- | -------- | -------------------------------------------- |
 | **stETH ARM** | Ethereum | `0x2c8aa89111f7ec541be277ce8d1f75517c706500` |
 
-
+#### ⚫ Hyperbeat
+| Token          | Chain    | Address                                      |
+| -------------- | -------- | -------------------------------------------- |
+| **USDT0**      | HyperEVM | `0x8998822a08ca96bb23491e8279E2978618fc903c` |
+| **VLP**        | HyperEVM | `0x9eC1871dcc37dE4C8aBfD3D119C8439A7728E47e ` |
+| **USDC**       | HyperEVM | `0x3a4945EABC0f69625Dbb3dA49a464a7E97819b72` |
+| **lstHYPE**    | HyperEVM | `0x69582196A3aB310a38846B31a11c751E735D6fdc` |
+| **XAUt**       | HyperEVM | `0x2c8aA89111F7ec541BE277ce8d1f75517C706500` |
+| **liquidHYPE** | HyperEVM | `0x7e38F0eE590Eae903C3783E297B38C6900f252cb` |
+| **Ultra HYPE** | HyperEVM | `0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb ` |
+| **Ultra BTC**  | HyperEVM | `0xc061d38903b99ac12713b550c2cb44b221674f94` |
 
 *(more protocols coming soon)*  
 
