@@ -56,10 +56,10 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | **liquidHYPE** | HyperEVM | `0x7e38F0eE590Eae903C3783E297B38C6900f252cb` |
 
 #### 🟢 Almanak
-| Token         | Chain    | Address                                      |
-| ------------- | -------- | -------------------------------------------- |
-| **  ALU    ** | Ethereum | `0xc00538b1e32f74b6bb7bf3be4f072f0257d1e803` |
-| **  ALP    ** | Ethereum | `0xddE2Bd08e617C3bA1E12ce568A277904b7e33917` |
+| Token   | Chain    | Address                                      |
+| ------- | -------- | -------------------------------------------- |
+| **ALU** | Ethereum | `0xc00538b1e32f74b6bb7bf3be4f072f0257d1e803` |
+| **ALP** | Ethereum | `0xddE2Bd08e617C3bA1E12ce568A277904b7e33917` |
 
 
 *(more protocols coming soon)*  
