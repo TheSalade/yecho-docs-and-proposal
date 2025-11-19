@@ -49,11 +49,18 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | Token          | Chain    | Address                                      |
 | -------------- | -------- | -------------------------------------------- |
 | **USDT0**      | HyperEVM | `0x8998822a08ca96bb23491e8279E2978618fc903c` |
-| **VLP**        | HyperEVM | `0x9eC1871dcc37dE4C8aBfD3D119C8439A7728E47e ` |
+| **VLP**        | HyperEVM | `0x9eC1871dcc37dE4C8aBfD3D119C8439A7728E47e` |
 | **USDC**       | HyperEVM | `0x3a4945EABC0f69625Dbb3dA49a464a7E97819b72` |
 | **lstHYPE**    | HyperEVM | `0x69582196A3aB310a38846B31a11c751E735D6fdc` |
 | **XAUt**       | HyperEVM | `0x2c8aA89111F7ec541BE277ce8d1f75517C706500` |
 | **liquidHYPE** | HyperEVM | `0x7e38F0eE590Eae903C3783E297B38C6900f252cb` |
+
+#### 🟢 Almanak
+| Token         | Chain    | Address                                      |
+| ------------- | -------- | -------------------------------------------- |
+| **  ALU    ** | Ethereum | `0xc00538b1e32f74b6bb7bf3be4f072f0257d1e803` |
+| **  ALP    ** | Ethereum | `0xddE2Bd08e617C3bA1E12ce568A277904b7e33917` |
+
 
 *(more protocols coming soon)*  
 
