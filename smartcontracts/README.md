@@ -44,7 +44,7 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | Token         | Chain    | Address                                      |
 | ------------- | -------- | -------------------------------------------- |
 | **stETH ARM** | Ethereum | `0x2c8aa89111f7ec541be277ce8d1f75517c706500` |
-|   ** OGN**    | Ethereum | `0xdB942dbD2efB18E7A2cB1Ae0DB9c5eAe542A54Ab` |
+|    **OGN**    | Ethereum | `0xdB942dbD2efB18E7A2cB1Ae0DB9c5eAe542A54Ab` |
 
 #### ⚫ Hyperbeat
 | Token          | Chain    | Address                                      |
