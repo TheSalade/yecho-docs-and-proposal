@@ -80,6 +80,7 @@ Below is the full list of **supported protocols**, with **supported tokens per c
 | **Ipor**         | rUSD, USDC, USDT, WETH, WBTC, USDe, DAI | USDC, wstETH, WETH, cbBTC | USDC | — | — | — | — | — | — | WETH | — | — | — |
 | **Angle**        | USDA, EURA, USDC, USDT, DAI, EURC | USDA, USDC, USDT, USDS, EURA, EURC | USDA, EURA, USDC, USDT, DAI, USDS | USDA, USDC, USDT | — | — | — | — | — | — | — | — | — |
 | **Cian**         | USDC, ETH, WETH, wBETH, rsETH, ETHx, stETH, wstETH, ezETH, FBTC, BBTC, uniBTC, WBTC, pumpBTC, SolvBTC, STONEBTC, LBTC, xSolvBTC, USDS, USDT, DAI, USCC | wstETH | rsETH, wstETH, weETH, ETHx | wstETH | wBETH, USD1, USDT, BTCB, slisBNB, BNB | — | — | — | — | — | — | — | — |
+| **Almanak**      | USDC, USDT | — | — | — | — | — | — | — | — | — | — | — | — |
 
 ---
 
