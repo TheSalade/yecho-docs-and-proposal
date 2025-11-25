@@ -67,6 +67,12 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | -------------- | -------- | -------------------------------------------- |
 | **srUSD**      | Ethereum | `0x1e27e50113bcab71337c42d0fb197aff97ec70d5` |
 
+#### ⚫ dEURO
+| Token            | Chain    | Address                                      |
+| ---------------  | -------- | -------------------------------------------- |
+| **dEURO savings**| Ethereum | `0x0A2Ab31c9545Ad173811Eb4f3f97B00f8e2B441a` |
+| **nDEPS equity** | Ethereum | `0x359579f260f72d614c15aca1c927cd27a25d1d32` |
+
 *(more protocols coming soon)*  
 
 ---
