@@ -15,12 +15,13 @@ This repository contains the **smartcontracts** deployed by Yecho.
 
 #### 🟠 Spark
 
-| Token    | Chain    | Address                                      |
-| -------- | -------- | -------------------------------------------- |
-| **USDS** | Base     | `0x1d9947b857c3f8e080f03bae5c4e144bda3b4114` |
-| **USDS** | Optimism | `0x8998822a08ca96bb23491e8279e2978618fc903c` |
-| **USDS** | Arbitrum | `0x8998822a08ca96bb23491e8279e2978618fc903c` |
-| **USDS** | Unichain | `0x8998822a08ca96bb23491e8279e2978618fc903c` |
+| Token      | Chain    | Address                                      |
+| ---------- | -------- | -------------------------------------------- |
+| **USDS**   | Base     | `0x1d9947b857c3f8e080f03bae5c4e144bda3b4114` |
+| **USDS**   | Optimism | `0x8998822a08ca96bb23491e8279e2978618fc903c` |
+| **USDS**   | Arbitrum | `0x8998822a08ca96bb23491e8279e2978618fc903c` |
+| **USDS**   | Unichain | `0x8998822a08ca96bb23491e8279e2978618fc903c` |
+| **stUSDS** | Ethereum | `0xac31D0F9665d8a97b7De78D0dE46bA8016661d51` |
 
 
 #### 🔵 Lido
