@@ -74,6 +74,15 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | **dEURO savings**| Ethereum | `0x0A2Ab31c9545Ad173811Eb4f3f97B00f8e2B441a` |
 | **nDEPS equity** | Ethereum | `0x359579f260f72d614c15aca1c927cd27a25d1d32` |
 
+#### 🟢 Lombard
+| Token     | Chain    | Address                                      |
+| --------- | -------- | -------------------------------------------- |
+| **LBTC**  | Ethereum | `0xC005997b921c6fb3da737A219C54cFd8814dc8e8` |
+| **LBTC**  | Katana   | `0x8998822a08ca96bb23491e8279E2978618fc903c` |
+| **LBTCv** | Ethereum | `0xD207FcC9b806d9b08D38822AE64093a556EDe9de` |
+| **LBTCv** | Base     | `0x7e38F0eE590Eae903C3783E297B38C6900f252cb` |
+| **LBTCv** | BSC      | `0x8998822a08ca96bb23491e8279E2978618fc903c` |
+
 *(more protocols coming soon)*  
 
 ---
