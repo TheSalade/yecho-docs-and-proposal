@@ -105,6 +105,21 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | **EURC**  | Base      | `0x4E5c1E96E092928B49001825DeC2f00dc3E7d30d` |
 | **WETH**  | Base      | `0xdB942dbD2efB18E7A2cB1Ae0DB9c5eAe542A54Ab` |
 
+#### ⚫ AUTOFinance
+| Token    | Chain    | Address                                      |
+| ---------| -------- | -------------------------------------------- |
+| **USDC** | Ethereum | `0x1f44399912eA78431eB5EA2f1EE1512ac4990431` |
+| **DOLA** | Ethereum | `0xBd98CaFb56743F6B3a46cFEd245A67b8A6505B07` |
+| **USDC** | Ethereum | `0x09a15c58898ec09cbe1d64b9e1de832aa25fb2bc` |
+| **USDC** | Ethereum | `0x09e83AFD21E3417dDDAF1c63aF54Bae7c48f1c8a` |
+| **WETH** | Ethereum | `0xb2F0B9a37f1A2f43eAb9758368A99a24BDD58CA6` |
+| **USDC** | Base     | `0x1e27e50113Bcab71337C42D0FB197Aff97EC70d5` |
+| **WETH** | Base     | `0x3Ef778cAf105191250166600F932A9c50A8872c1` |
+| **EURC** | Base     | `0x0a2ab31c9545ad173811eb4f3f97b00f8e2b441a` |
+| **USDC** | Arbitrum | `0x3a4945EABC0f69625Dbb3dA49a464a7E97819b72` |
+| **USDC** | Linea    | `0x3a4945EABC0f69625Dbb3dA49a464a7E97819b72` |
+| **USDT0**| Plasma   | `0x8998822a08ca96bb23491e8279E2978618fc903c` |
+
 
 *(more protocols coming soon)*  
 
