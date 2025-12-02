@@ -1,4 +1,4 @@
-# 🟢 Yecho – SmartContracts  
+# ⚫ Yecho – SmartContracts  
 
 Yecho is the first multichain DeFi yield tracker that lets you know your **real yield, daily**.  
 This repository contains the **smartcontracts** deployed by Yecho.
@@ -81,6 +81,30 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | **LBTCv** | Ethereum | `0xD207FcC9b806d9b08D38822AE64093a556EDe9de` |
 | **LBTCv** | Base     | `0x7e38F0eE590Eae903C3783E297B38C6900f252cb` |
 | **LBTCv** | BSC      | `0x8998822a08ca96bb23491e8279E2978618fc903c` |
+
+#### 🟢 Lagoon
+| Token     | Chain     | Address                                      |
+| --------- | --------- | -------------------------------------------- |
+| **rETH**  | Ethereum  | `0x46A85f6cEE50f255949BC4E77d131128f9102510` |
+| **WETH**  | Ethereum  | `0x60df09ab2bd6b0f6b161f6dcf3ae71567c567b06` |
+| **cbBTC** | Ethereum  | `0x4875b6CbAd8fA8CA77A673Ec69f4Fa7713886284` |
+| **USDC**  | Ethereum  | `0x1A69Dfbd545Dd447A0497017cCa2db9412182048` |
+| **USDC**  | Ethereum  | `0x698f10E389433ACf059b9Ff8cD6aa244b205a4C6` |
+| **USDC**  | Ethereum  | `0x591825D1d20712b25C93f9FBC2a640a0dB0B44dE` |
+| **WETH**  | Ethereum  | `0x38301b9b1649574e477384595a96914d9f44754d` |
+| **USDC**  | Ethereum  | `0x063bd250E4e83A36fDd056D9d3cD271E7D1901f0` |
+| **USDT0** | Arbitrum  | `0x9eC1871dcc37dE4C8aBfD3D119C8439A7728E47e` |
+| **USDC**  | Avalanche | `0xc00538b1e32F74B6bb7BF3BE4F072f0257d1e803` |
+| **BTC.b** | Avalanche | `0xddE2Bd08e617C3bA1E12ce568A277904b7e33917` |
+| **WAVAX** | Avalanche | `0x4E5c1E96E092928B49001825DeC2f00dc3E7d30d` |
+| **USDC**  | Linea     | `0x8998822a08ca96bb23491e8279E2978618fc903c` |
+| **WETH**  | Linea     | `0x9eC1871dcc37dE4C8aBfD3D119C8439A7728E47e` |
+| **USDC**  | Base      | `0x1fe8e3a0A0C291062Ab7798E8C97d41c9fA3971f` |
+| **USDC**  | Base      | `0xc00538b1e32f74b6bb7bf3be4f072f0257d1e803` |
+| **USDC**  | Base      | `0xddE2Bd08e617C3bA1E12ce568A277904b7e33917` |
+| **EURC**  | Base      | `0x4E5c1E96E092928B49001825DeC2f00dc3E7d30d` |
+| **WETH**  | Base      | `0xdB942dbD2efB18E7A2cB1Ae0DB9c5eAe542A54Ab` |
+
 
 *(more protocols coming soon)*  
 
