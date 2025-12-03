@@ -55,6 +55,10 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | **lstHYPE**    | HyperEVM | `0x69582196A3aB310a38846B31a11c751E735D6fdc` |
 | **XAUt**       | HyperEVM | `0x2c8aA89111F7ec541BE277ce8d1f75517C706500` |
 | **liquidHYPE** | HyperEVM | `0x7e38F0eE590Eae903C3783E297B38C6900f252cb` |
+| **Nunchi**     | HyperEVM | `0x1e27e50113Bcab71337C42D0FB197Aff97EC70d5` |
+| **dnHYPE**     | HyperEVM | `0x3Ef778cAf105191250166600F932A9c50A8872c1` |
+| **dnPUMP**     | HyperEVM | `0x0A2Ab31c9545Ad173811Eb4f3f97B00f8e2B441a` |
+
 
 #### 🟢 Almanak
 | Token   | Chain    | Address                                      |
