@@ -138,6 +138,11 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | **ETHFI**    | Base     | `0xac31D0F9665d8a97b7De78D0dE46bA8016661d51` |
 | **ETHFI**    | Ethereum | `0x69582196A3aB310a38846B31a11c751E735D6fdc` |
 
+#### 🟡 ListaDAO
+| Token        | Chain  | Address                                      |
+| -------------| ------ | -------------------------------------------- |
+| **slisBNB**  | BSC    | `0x3a4945eabc0f69625dbb3da49a464a7e97819b72` |
+
 *(more protocols coming soon)*  
 
 ---
