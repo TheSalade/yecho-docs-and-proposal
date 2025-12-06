@@ -143,6 +143,13 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | -------------| ------ | -------------------------------------------- |
 | **slisBNB**  | BSC    | `0x3a4945eabc0f69625dbb3da49a464a7e97819b72` |
 
+#### 🟢 Kinetiq
+| Token      | Chain   | Address                                     |
+| -----------| --------| --------------------------------------------|
+| **kHYPE**  | HyperEVM| `0x359579f260F72D614c15acA1C927CD27A25d1D32`|
+| **vkHYPE** | HyperEVM| `0xac31D0F9665d8a97b7De78D0dE46bA8016661d51`|
+
+
 *(more protocols coming soon)*  
 
 ---
