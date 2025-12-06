@@ -11,7 +11,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
      ██    ███████  ██████ ██   ██  ██████  
 
   Yecho - Know Your Yield
-  kHYPE (Ether.Fi) Helper Smartcontract
+  kHYPE (Kinetiq) Helper Smartcontract
 
   https://www.yecho.app | https://x.com/YechoApp
   By https://x.com/TRTtheSalad
