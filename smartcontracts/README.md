@@ -59,7 +59,6 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | **dnHYPE**     | HyperEVM | `0x3Ef778cAf105191250166600F932A9c50A8872c1` |
 | **dnPUMP**     | HyperEVM | `0x0A2Ab31c9545Ad173811Eb4f3f97B00f8e2B441a` |
 
-
 #### 🟢 Almanak
 | Token   | Chain    | Address                                      |
 | ------- | -------- | -------------------------------------------- |
@@ -124,6 +123,20 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | **USDC** | Linea    | `0x3a4945EABC0f69625Dbb3dA49a464a7E97819b72` |
 | **USDT0**| Plasma   | `0x8998822a08ca96bb23491e8279E2978618fc903c` |
 
+#### 🟣 EtherFi
+| Token        | Chain    | Address                                      |
+| -------------| -------- | -------------------------------------------- |
+| **weETH**    | Ethereum | `0xABbeB82e6b83DB8dFD2C4DF10A5167A316af8b45` |
+| **weETHs**   | Ethereum | `0xd58C3Bb0baB5026576be7Ab74f01930fC9Cc1bb7` |
+| **weETHk**   | Ethereum | `0xc51C59612c5B0d5B4515836E6441317670Ad6F2a` |
+| **eBTC**     | Ethereum | `0x3C6D23C4Bae93bbec70682Cf422cd1543530444E` |
+| **eUSD**     | Ethereum | `0x939c14Be87786fFfcdC9cD94eFF13580A6F313c2` |
+| **liquidETH**| Ethereum | `0xda38F3CAEb2aCfEf470899f9e60F7aDF50fb7223` |
+| **liquidBTC**| Ethereum | `0xC43AE587cc0Cd1dF88fDf8ACCed3B4109b7A68C7` |
+| **liquidUSD**| Ethereum | `0x7185b2678b750773e182E925E33375b77D0Fb278` |
+| **ETHFI**    | Ethereum | `0x1acFFae86df5566420C4db506cfa11F900683149` |
+| **ETHFI**    | Base     | `0xac31D0F9665d8a97b7De78D0dE46bA8016661d51` |
+| **ETHFI**    | Ethereum | `0x69582196A3aB310a38846B31a11c751E735D6fdc` |
 
 *(more protocols coming soon)*  
 
