@@ -107,6 +107,7 @@ This repository contains the **smartcontracts** deployed by Yecho.
 | **USDC**  | Base      | `0xddE2Bd08e617C3bA1E12ce568A277904b7e33917` |
 | **EURC**  | Base      | `0x4E5c1E96E092928B49001825DeC2f00dc3E7d30d` |
 | **WETH**  | Base      | `0xdB942dbD2efB18E7A2cB1Ae0DB9c5eAe542A54Ab` |
+| **cbBTC** | Base      | `0xc005997b921c6fb3da737a219c54cfd8814dc8e8` |
 
 #### ⚫ AUTOFinance
 | Token    | Chain    | Address                                      |
