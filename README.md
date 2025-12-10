@@ -16,7 +16,7 @@ DeFi users lack a unified, automated platform to track yields, requiring manual 
    Beta subscriptions are free. Post-beta, choose flexible plans (1 month, 3 months, or 1 year).
 
 3. **Daily Snapshots**  
-   Yecho automatically detects DeFi positions and takes daily snapshots at 5:00 PM EDT. Yields are calculated without user action.
+   Yecho automatically detects DeFi positions and takes daily snapshots at 22:00 UTC. Yields are calculated without user action.
 
 4. **Subscription Management**  
    When a plan expires, snapshots pause, but historical data remains safe. No auto-renew—buy 1mo, 3mo, or 1yr to stack periods flexibly.
