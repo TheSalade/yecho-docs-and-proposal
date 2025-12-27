@@ -11,10 +11,10 @@ import "@openzeppelin/contracts/access/Ownable.sol";
      ██    ███████  ██████ ██   ██  ██████  
 
   Yecho - Know Your Yield
-  Morpho Position Helper Smartcontract
+  Morpho Collateral Helper Smartcontract
 
   https://www.yecho.app | https://x.com/YechoApp
-  By https://x.com/TRTtheSalad
+  By Lasalad
 */
 
 struct Position {
@@ -37,14 +37,17 @@ interface IMorpho {
     function market(bytes32 marketId) external view returns (Market memory);
 }
 
-contract YechoMorphoPositionHelper is Ownable {
+contract YechoMorphoCollatHelper is Ownable {
     IMorpho public morpho;
+    bytes32 public marketId;
 
     event MorphoAddressUpdated(address newAddress);
+    event MarketIdUpdated(bytes32 newMarketId);
 
-    constructor(address _morphoAddress) Ownable(msg.sender) {
+    constructor(address _morphoAddress, bytes32 _marketId) Ownable(msg.sender) {
         require(_morphoAddress != address(0), "Invalid Morpho address");
         morpho = IMorpho(_morphoAddress);
+        marketId = _marketId;
     }
 
     function setMorphoAddress(address _newMorphoAddress) external onlyOwner {
@@ -53,11 +56,13 @@ contract YechoMorphoPositionHelper is Ownable {
         emit MorphoAddressUpdated(_newMorphoAddress);
     }
 
-    function getHelper(bytes32 marketId, address user) external view returns (uint256 collateral, uint256 debt) {
-        Position memory position = morpho.position(marketId, user);
-        Market memory market = morpho.market(marketId);
+    function setMarketId(bytes32 _newMarketId) external onlyOwner {
+        marketId = _newMarketId;
+        emit MarketIdUpdated(_newMarketId);
+    }
 
-        collateral = position.collateral;
-        debt = (market.totalBorrowAssets * position.borrowShares) / market.totalBorrowShares * 1e18;
+    function getHelper(address user) external view returns (uint256 collateral) {
+        Position memory position = morpho.position(marketId, user);
+        return position.collateral;
     }
 }
